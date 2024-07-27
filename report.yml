@@ -2,12 +2,12 @@ name: John Doe
 age: 30
 city: New York
 is_student: true
-grade:
+grade:git 
 - subject: Math
-grade: G
+grade: kkkk
 - subject: English
-grade: G
+grade: kkkk
 - subject: Science
-grade: G+
+grade: kkkk+
 - subject: computer
-grade: G+
+grade: kkkkkkk+
